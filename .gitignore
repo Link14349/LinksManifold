@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+CMakeFiles/
+build/
+lib/
+__pycache__/
+CMakeCache.txt
